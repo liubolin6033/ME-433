@@ -54,7 +54,7 @@ FDCAN_TxHeaderTypeDef txHeader;
 uint8_t rxData[20U];
 static const uint8_t txData[20] = {
     'H','W','1','2','C','A','N','!',
-    'W','E','I','Q','I','A','N','P','E','N','G',' '
+    'B','O','L','I','N','L','I','U','','','',' '
 };
 
 /* USER CODE END PV */
